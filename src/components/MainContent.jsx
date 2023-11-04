@@ -1,4 +1,5 @@
-import '../styles/components/MainContent.sass'
+import '../styles/components/mainContent.sass'
+
 import About from './mainContent/About'
 import Projetos from './mainContent/Projetos'
 import Tecnologias from './mainContent/Tecnologias'
